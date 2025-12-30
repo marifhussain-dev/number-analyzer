@@ -1,0 +1,4 @@
+ERROR: Payment failed
+WARNING: Disk space low
+INFO: User logged in
+Random Message

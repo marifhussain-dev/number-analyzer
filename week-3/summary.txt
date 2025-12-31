@@ -1,0 +1,5 @@
+Count: 5
+Sum: 150
+Min: 10
+Max: 50
+Average: 30.0

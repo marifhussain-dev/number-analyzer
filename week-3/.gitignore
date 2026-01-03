@@ -1,0 +1,7 @@
+__pychahe__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+output/*.txt
+output/*.log
